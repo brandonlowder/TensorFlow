@@ -33,6 +33,7 @@ Below there are two tasks. I highly recommend doing them because while watching 
 
 
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb) 
+:D
 
 ## Integration of the Keras API
 
